@@ -1,5 +1,4 @@
-export const BASE_URL = process.env.REACT_APP_BACKEND_URL || "http://localhost:8000";
-
+export const BASE_URL = "https://expense-tracker-coi4.onrender.com"
 // utils/apiPaths.js
 export const API_PATHS = {
   AUTH: {
